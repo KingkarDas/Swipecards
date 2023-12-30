@@ -1,1 +1,3 @@
-Tinder like swipeable cards
+Tinder like swipeable cards.
+CHANGES MADE TO APP.JS
+NEW FILE NAMED TINDERSWIPER.JS
